@@ -12,3 +12,13 @@ Fitur program ini terdiri dari beberapa package:
 - Cari berdasarkan hari -> Mencari jadwal latihan berdasarkan hari
 - Keluar dari program -> Program berhenti
 3. Main: Berfungsi sebagai entry poin program
+
+# Alur Program
+1. Pilih Menu
+<img width="631" height="196" alt="image" src="https://github.com/user-attachments/assets/2e381a8e-61a4-4cab-8ec7-f0d066ee1648" />
+
+2. Tambah Jadwal
+3. Lihat Jadwal
+4. Update Jadwal
+5. Cari Jadwal Berdasarkan Hari
+6. Keluar
