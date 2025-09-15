@@ -11,4 +11,4 @@ Fitur program ini terdiri dari beberapa package:
 - Hapus jadwal -> Menghapus jadwal latihan yang ada sesuai nomor jadwal
 - Cari berdasarkan hari -> Mencari jadwal latihan berdasarkan hari
 - Keluar dari program -> Program berhenti
-4. Main: Berfungsi sebagai entry poin program
+3. Main: Berfungsi sebagai entry poin program
