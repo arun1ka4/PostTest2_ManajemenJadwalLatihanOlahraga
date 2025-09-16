@@ -52,5 +52,5 @@ ada opsi 5, user dapat mencari jadwal latihan berdasarkan hari latihan.
     
 <img width="422" height="257" alt="image" src="https://github.com/user-attachments/assets/1da5e943-d7b4-46b8-9083-c970c49cf127" />
 
-Pada opsi 5, user dapat menghapus salah satu jadwal sesuai dengan nomor jadwal yang ditampilkan. Setelah user mwnghapus jadwal, program akan menampilkan pesan "Jadwal berhasil dihapus" sebagai konfirmasi.
+Pada opsi 5, user dapat menghapus salah satu jadwal sesuai dengan nomor jadwal yang ditampilkan. Setelah user menghapus jadwal, program akan menampilkan pesan "Jadwal berhasil dihapus" sebagai konfirmasi.
 
