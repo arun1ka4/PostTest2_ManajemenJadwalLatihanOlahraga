@@ -16,6 +16,7 @@ Fitur program ini terdiri dari beberapa package:
 # Alur Program
 1. Pilih Menu
 <img width="631" height="196" alt="image" src="https://github.com/user-attachments/assets/2e381a8e-61a4-4cab-8ec7-f0d066ee1648" />
+
 Pada opsi 1, user dapat menambahkan jadwal latihan dengan menginput jenis latihan serta hari latihan itu dilakukan. Jadwal akan disimpan ke dalam ArrayList dengan format "Hari - Jenis Latihan". Setelah user menambah jadwal, program akan menampilkan pesan "Jadwal berhasil ditambahkan" sebagai konfirmasi.
 
 2. Pilih menu == 2
