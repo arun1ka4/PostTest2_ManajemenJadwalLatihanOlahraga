@@ -56,11 +56,13 @@ Jika tidak ada jadwal latihan yang ditambahkan akan muncul pesan "Belum ada jadw
 
 6. Pilih menu == 5
 
-   ![Uploading image.png…]()
+   <img width="427" height="237" alt="image" src="https://github.com/user-attachments/assets/87ea22a2-47d6-4fa3-bfa3-457a126f88c4" />
 
 <img width="408" height="247" alt="image" src="https://github.com/user-attachments/assets/ac0340ee-1079-4b7a-a373-1e5c3d6efd15" />
    
 ada opsi 5, user dapat mencari jadwal latihan berdasarkan hari latihan.
+
+<img width="427" height="237" alt="image" src="https://github.com/user-attachments/assets/cdb3ccff-1c37-4460-b455-3f388a58f662" />
 
 7. Pilih menu == 6
     
