@@ -36,19 +36,19 @@ Pada opsi 1, user dapat menambahkan jadwal latihan dengan menginput jenis latiha
    
   Pada opsi 3, user dapat memilih salah satu jadwal yang ingin diperbarui dengan menginput sesuai dengan nomor jadwal. Jika nomor valid, user diminta memasukkan jenis latihan dan hari latihan. Setelah user memperbarui jadwal, program akan menampilkan pesan "Jadwal berhasil diperbarui" sebagai konfirmasi.
 
-6. Pilih menu == 4
+5. Pilih menu == 4
 
 <img width="463" height="307" alt="image" src="https://github.com/user-attachments/assets/75518a70-c567-4ee1-8226-65109626d8e8" />
    
 Pada opsi 4, user dapat menghapus salah satu jadwal sesuai dengan nomor jadwal yang ditampilkan. Setelah user mwnghapus jadwal, program akan menampilkan pesan "Jadwal berhasil dihapus" sebagai konfirmasi.
 
-8. Pilih menu == 5
+6. Pilih menu == 5
    
 <img width="408" height="247" alt="image" src="https://github.com/user-attachments/assets/ac0340ee-1079-4b7a-a373-1e5c3d6efd15" />
    
 ada opsi 5, user dapat mencari jadwal latihan berdasarkan hari latihan.
 
-10. Pilih menu == 6
+7. Pilih menu == 6
     
 <img width="422" height="257" alt="image" src="https://github.com/user-attachments/assets/1da5e943-d7b4-46b8-9083-c970c49cf127" />
 
