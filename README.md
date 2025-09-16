@@ -22,13 +22,13 @@ Fitur program ini terdiri dari beberapa package:
 
 <img width="412" height="278" alt="image" src="https://github.com/user-attachments/assets/69be33ca-d8ab-45f4-a8fa-a9e5f81e4bad" />
 
-Pada opsi 1, user dapat menambahkan jadwal latihan dengan menginput jenis latihan serta hari latihan itu dilakukan. Jadwal akan disimpan ke dalam ArrayList dengan format "Hari - Jenis Latihan". Setelah user menambah jadwal, program akan menampilkan pesan "Jadwal berhasil ditambahkan" sebagai konfirmasi.
+Pada opsi 1, user dapat menambahkan jadwal latihan dengan menginput jenis latihan serta hari latihan itu dilakukan. Setelah user menambah jadwal, program akan menampilkan pesan "Jadwal berhasil ditambahkan" sebagai konfirmasi.
 
 2. Pilih menu == 2
 
 <img width="366" height="232" alt="image" src="https://github.com/user-attachments/assets/14217715-1a9b-46db-9a3a-dcea56f85301" />
 
-  Pada opsi 2, program akan memeriksa apakah ada data di dalam ArrayList. Pertama, program akan cek apakah jadwalLatihan kosong dengan size() == 0.Jika ada, jadwal akan ditampilkan dalam bentuk list.
+  Pada opsi 2, program akan memeriksa apakah ada data di dalam ArrayList.
 
 4. Pilih menu == 3
 
