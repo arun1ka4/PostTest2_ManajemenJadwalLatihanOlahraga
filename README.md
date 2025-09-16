@@ -17,8 +17,8 @@ Fitur program ini terdiri dari beberapa package:
 1. Pilih Menu
 <img width="631" height="196" alt="image" src="https://github.com/user-attachments/assets/2e381a8e-61a4-4cab-8ec7-f0d066ee1648" />
 
-2. Tambah Jadwal
-3. Lihat Jadwal
-4. Update Jadwal
-5. Cari Jadwal Berdasarkan Hari
-6. Keluar
+2. Pilih menu == 2
+3. Pilih menu == 3
+4. Pilih menu == 4
+5. Pilih menu == 5
+6. Pilih menu == 6
