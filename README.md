@@ -28,7 +28,11 @@ Pada opsi 1, user dapat menambahkan jadwal latihan dengan menginput jenis latiha
 
 <img width="366" height="232" alt="image" src="https://github.com/user-attachments/assets/14217715-1a9b-46db-9a3a-dcea56f85301" />
 
-  Pada opsi 2, program akan memeriksa apakah ada data di dalam ArrayList.
+Pada opsi 2, program akan memeriksa apakah ada data di dalam ArrayList.
+
+<img width="332" height="212" alt="image" src="https://github.com/user-attachments/assets/7c29d07f-39b4-4252-8be4-9be455c71a65" />
+
+Jika tidak ada jadwal latihan yang ditambahkan akan muncul pesan "Belum ada jadwal latihan".
 
 4. Pilih menu == 3
 
@@ -36,14 +40,24 @@ Pada opsi 1, user dapat menambahkan jadwal latihan dengan menginput jenis latiha
    
   Pada opsi 3, user dapat memilih salah satu jadwal yang ingin diperbarui dengan menginput sesuai dengan nomor jadwal. Jika nomor valid, user diminta memasukkan jenis latihan dan hari latihan. Setelah user memperbarui jadwal, program akan menampilkan pesan "Jadwal berhasil diperbarui" sebagai konfirmasi.
 
+<img width="361" height="217" alt="image" src="https://github.com/user-attachments/assets/ad461b9a-a03c-4c50-a46f-0e88dd15437a" />
+
+Jika tidak ada jadwal latihan yang ditambahkan akan muncul pesan "Belum ada jadwal latihan". 
+
 5. Pilih menu == 4
 
 <img width="463" height="307" alt="image" src="https://github.com/user-attachments/assets/75518a70-c567-4ee1-8226-65109626d8e8" />
    
 Pada opsi 4, user dapat menghapus salah satu jadwal sesuai dengan nomor jadwal yang ditampilkan. Setelah user mwnghapus jadwal, program akan menampilkan pesan "Jadwal berhasil dihapus" sebagai konfirmasi.
 
+<img width="357" height="213" alt="image" src="https://github.com/user-attachments/assets/af16839c-60b0-4995-af33-4b3c22eeb58c" />
+
+Jika tidak ada jadwal latihan yang ditambahkan akan muncul pesan "Belum ada jadwal latihan".
+
 6. Pilih menu == 5
-   
+
+   ![Uploading image.png…]()
+
 <img width="408" height="247" alt="image" src="https://github.com/user-attachments/assets/ac0340ee-1079-4b7a-a373-1e5c3d6efd15" />
    
 ada opsi 5, user dapat mencari jadwal latihan berdasarkan hari latihan.
